@@ -148,6 +148,7 @@
 }
 
 .u-section-2 .u-text-2 {
+  font-size: 1.5rem;
   margin: 53px auto 60px 0;
 }.u-section-3 .u-sheet-1 {
   min-height: 400px;
@@ -158,6 +159,7 @@
 }
 
 .u-section-3 .u-text-2 {
+  font-size: 1.5rem;
   margin: 53px auto 0 0;
 }
 
@@ -165,12 +167,14 @@
   margin-left: 0;
   margin-right: auto;
   margin-bottom: 0;
+  font-size: 2.25rem;
 }
 
 .u-section-3 .u-text-4 {
   margin-left: 0;
   margin-right: auto;
   margin-bottom: 60px;
+  font-size: 1.5rem;
 }.u-section-4 .u-sheet-1 {
   min-height: 400px;
 }
@@ -180,5 +184,6 @@
 }
 
 .u-section-4 .u-text-2 {
+  font-size: 1.5rem;
   margin: 53px auto 60px 0;
 }

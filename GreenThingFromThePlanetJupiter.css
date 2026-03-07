@@ -164,6 +164,7 @@
 }
 
 .u-section-2 .u-text-2 {
+  font-size: 1.5rem;
   margin: 50px 0 60px;
 }.u-section-3 .u-sheet-1 {
   min-height: 318px;
@@ -174,9 +175,10 @@
 }
 
 .u-section-3 .u-text-2 {
+  font-size: 1.5rem;
   margin: 53px 0;
 }.u-section-4 .u-sheet-1 {
-  min-height: 502px;
+  min-height: 499px;
 }
 
 .u-section-4 .u-text-1 {
