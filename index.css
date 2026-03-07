@@ -25,11 +25,6 @@
 .u-section-1 .u-text-1 {
   font-size: 3.4375rem;
   font-weight: 700;
-  --animation-custom_in-translate_x: 0px;
-  --animation-custom_in-translate_y: -300px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 1;
   margin: 66px auto 0;
 }
 
@@ -40,7 +35,7 @@
 
 .u-section-1 .u-list-1 {
   margin-top: 49px;
-  margin-bottom: 37px;
+  margin-bottom: 38px;
 }
 
 .u-section-1 .u-repeater-1 {
@@ -132,6 +127,14 @@
 @media (max-width: 1399px) {
   .u-section-1 .u-image-1 {
     width: 417px;
+  }
+
+  .u-section-1 .u-text-1 {
+    --animation-custom_in-translate_x: 0px;
+    --animation-custom_in-translate_y: -300px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
   }
 
   .u-section-1 .u-repeater-1 {
